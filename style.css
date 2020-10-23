@@ -1,8 +1,9 @@
-main{
+main {
     background-color: antiquewhite;
-
 }
-header {
-color: brown
+
+.header {
+color: darkred;
 text-align: center;
+border: black 1px solid;
 }
