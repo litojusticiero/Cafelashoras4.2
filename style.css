@@ -2,7 +2,7 @@ main {
     background-color: antiquewhite;
 }
 
-.cabeza {
+.header{
 color: darkred;
 text-align: center;
 border: black 1px solid;
