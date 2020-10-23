@@ -1,14 +1,23 @@
-main {
+body{
     background-color: antiquewhite;
 }
-
-.header{
-color: darkred;
-text-align: center;
-border: black 1px solid;
+header.h1{
+    color: darkred;
+    text-align: center;
+    border: black 1px solid;
 }
 .cafe {
-    border: black 1px solid;
     position: relative;
-    left: 400px;
+    top: 200px;
+    left: 500px;
+}
+.contacto {
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    
+}
+footer{
+    background-color: antiquewhite;
+    border: black 1px solid;
 }
