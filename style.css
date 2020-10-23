@@ -7,3 +7,8 @@ color: darkred;
 text-align: center;
 border: black 1px solid;
 }
+.cafe {
+    border: black 1px solid;
+    position: relative;
+    left: 400px;
+}
