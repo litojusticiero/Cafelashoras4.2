@@ -5,12 +5,12 @@ h1{
     color: darkred;
     text-align: center;
 }
-.cafe {
+a.cafe {
     position: relative;
     top: 200px;
     left: 500px;
 }
-.contacto {
+a.contacto {
     position: relative;
     top: 500px;
     left: 1000px;
