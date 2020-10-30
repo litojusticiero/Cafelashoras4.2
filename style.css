@@ -14,9 +14,10 @@ a.contacto {
     position: relative;
     top: 500px;
     left: 1000px;
+}
+img.tamano{
     width: 150;
     height: 150;
-
 }
 p.p1{
     color: darkred;
