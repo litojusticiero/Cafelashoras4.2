@@ -7,18 +7,21 @@ h1{
 }
 a.cafe {
     position: relative;
-    top: 200px;
-    left: 500px;
+    top: 250px;
+    left: 600px;
 }
 a.contacto {
     position: relative;
-    top: 500px;
-    left: 1000px;
+    top: 600px;
+    left: 1200px;
 }
-.tamano{
-    position: relative;
-    width: 20;
-    height: 20;
+img.tamano1{
+    width: 150px;
+    height: 150px;
+}
+img.tamano2{
+    width: 50px;
+    height: 50px;
 }
 p.p1{
     color: darkred;
